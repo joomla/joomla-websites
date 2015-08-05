@@ -1,13 +1,13 @@
-## Report a Problem with a Joomla! Website
+## Report a Problem with an official Joomla! Project Website
 
-If you need to report a problem with a Joomla website, please use one of the links below to create an issue. You will need a GitHub account to report an issue. If you don't have one you can create one **[here](https://github.com/join)**.
+If you need to report a problem with one of the Joomla website owned by the project, for example: Joomla.org, please use one of the following links to create an issue. You will need a GitHub account to report an issue. If you don't have one you can **[create](https://github.com/join)** one.
 
 To help the webmasters, please:
 
 1. **DO NOT report security issues here, report them on [vel.joomla.org](http://vel.joomla.org/submit-vel)**
-2. Use a decriptive title
+2. Use a descriptive title
 3. Give a description of the problem you encountered
-4. Provide a link if it is on a specific page
+4. Provide a link if it is on a specific page, images also help explain issues for people to fix
 
 ### Websites
 
