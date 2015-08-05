@@ -23,7 +23,7 @@ forum | [report jforum](https://github.com/joomla/joomla-websites/issues/new?tit
 framework | [report FW](https://github.com/joomla/framework.joomla.org/issues/new?title=[FW%20Site]&body=Please%20state%20the%20nature%20of%20your%20development%20emergency)
 issues | [report jissues](http://issues.joomla.org/tracker/jtracker)
 magazine | [report jmag](https://github.com/joomla/joomla-websites/issues/new?title=[jmag]%20&body=Please%20describe%20the%20problem%20or%20your%20issue)
-osm | [report josm](https://github.com/joomla/joomla-websites/issues/new?title=[jmag]%20&body=Please%20describe%20the%20problem%20or%20your%20issue)
+osm | [report josm](https://github.com/joomla/joomla-websites/issues/new?title=[josm]%20&body=Please%20describe%20the%20problem%20or%20your%20issue)
 resources | [report jrescs](https://github.com/joomla/joomla-websites/issues/new?title=[jrescs]%20&body=Please%20describe%20the%20problem%20or%20your%20issue)
 vel | [report jvel](https://github.com/joomla/joomla-websites/issues/new?title=[jvel]%20&body=Please%20describe%20the%20problem%20or%20your%20issue)
 volunteers | [report jvols](https://github.com/joomla/joomla-websites/issues/new?title=[jvols]%20&body=Please%20describe%20the%20problem%20or%20your%20issue)
