@@ -10,7 +10,7 @@ To help the webmasters, please:
 
 ### Websites
 
-Website | Reporting Link
+Website | Reporting Links
 ------- | ------
 joomla.org  | [report j.org here](https://github.com/joomla/joomla-websites/issues/new?title=[jorg]%20&body=Please%20describe%20the%20problem%20or%20your%20issue)
 community | [report jcomm here](https://github.com/joomla/joomla-websites/issues/new?title=[jcomm]%20&body=Please%20describe%20the%20problem%20or%20your%20issue)
