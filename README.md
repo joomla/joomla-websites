@@ -22,7 +22,7 @@ docs | docs.joomla.org | [report jdocs](https://github.com/joomla/joomla-website
 events | events.joomla.org | [report jevnt](https://github.com/joomla/joomla-websites/issues/new?title=[jevnt]%20&body=Please%20describe%20the%20problem%20or%20your%20issue)
 extensions | extensions.joomla.org | [report jed](https://joomlaextensionsdirectory.atlassian.net/secure/Dashboard.jspa)
 forum | forum.joomla.org | [report jforum](https://github.com/joomla/joomla-websites/issues/new?title=[jforum]%20&body=Please%20describe%20the%20problem%20or%20your%20issue)
-framework | developer.joomla.org/framework.html | [report FW](https://github.com/joomla/framework.joomla.org/issues/new?title=[FW%20Site]&body=Please%20state%20the%20nature%20of%20your%20development%20emergency)
+framework | framework.joomla.org | [report FW](https://github.com/joomla/framework.joomla.org/issues/new?title=[FW%20Site]&body=Please%20state%20the%20nature%20of%20your%20development%20emergency)
 issues | issues.joomla.org | [report jissues](http://issues.joomla.org/tracker/jtracker)
 magazine | magazine.joomla.org | [report jmag](https://github.com/joomla/joomla-websites/issues/new?title=[jmag]%20&body=Please%20describe%20the%20problem%20or%20your%20issue)
 osm | opensourcematters.org | [report josm](https://github.com/joomla/joomla-websites/issues/new?title=[josm]%20&body=Please%20describe%20the%20problem%20or%20your%20issue)
