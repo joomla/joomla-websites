@@ -20,6 +20,7 @@ conference | [report jconf](https://github.com/joomla/joomla-websites/issues/new
 developer | [report jdev](https://github.com/joomla/joomla-websites/issues/new?title=[jdev]%20&body=Please%20describe%20the%20problem%20or%20your%20issue)
 docs | [report jdocs](https://github.com/joomla/joomla-websites/issues/new?title=[jdocs]%20&body=Please%20describe%20the%20problem%20or%20your%20issue)
 events | [report jevnt](https://github.com/joomla/joomla-websites/issues/new?title=[jevnt]%20&body=Please%20describe%20the%20problem%20or%20your%20issue)
+extensions | [report jed](https://joomlaextensionsdirectory.atlassian.net/secure/Dashboard.jspa)
 forum | [report jforum](https://github.com/joomla/joomla-websites/issues/new?title=[jforum]%20&body=Please%20describe%20the%20problem%20or%20your%20issue)
 framework | [report FW](https://github.com/joomla/framework.joomla.org/issues/new?title=[FW%20Site]&body=Please%20state%20the%20nature%20of%20your%20development%20emergency)
 issues | [report jissues](http://issues.joomla.org/tracker/jtracker)
