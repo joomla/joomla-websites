@@ -15,6 +15,7 @@ Website | URL | Reporting Links
 ------- | ------ | ------
 joomla.org | joomla.org | [report j.org](https://github.com/joomla/joomla-websites/issues/new?title=[jorg]%20&body=Please%20describe%20the%20problem%20or%20your%20issue)
 api | api.joomla.org | [report japi](https://github.com/joomla/joomla-websites/issues/new?title=[japi]%20&body=Please%20describe%20the%20problem%20or%20your%20issue)
+coding-standards | joomla.github.io/coding-standards | [report jstand](https://github.com/joomla/joomla-websites/issues/new?title=[jstand]%20&body=Please%20describe%20the%20problem%20or%20your%20issue)
 community | community.joomla.org | [report jcomm](https://github.com/joomla/joomla-websites/issues/new?title=[jcomm]%20&body=Please%20describe%20the%20problem%20or%20your%20issue)
 conference | conference.joomla.org | [report jconf](https://github.com/joomla/joomla-websites/issues/new?title=[jconf]%20&body=Please%20describe%20the%20problem%20or%20your%20issue)
 developer | developer.joomla.org | [report jdev](https://github.com/joomla/joomla-websites/issues/new?title=[jdev]%20&body=Please%20describe%20the%20problem%20or%20your%20issue)
