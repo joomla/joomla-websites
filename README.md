@@ -33,6 +33,7 @@ resources | resources.joomla.org | [report jrescs](https://github.com/joomla/joo
 shop | shop.joomla.org | [report jshop](https://github.com/joomla/joomla-websites/issues/new?title=[jshop]%20&body=Please%20describe%20the%20problem%20or%20your%20issue)
 showcase | community.joomla.org/showcase | [report jshow](https://github.com/joomla/joomla-websites/issues/new?title=[jshow]%20&body=Please%20describe%20the%20problem%20or%20your%20issue)
 sponsor | joomla.org/3/sponsor | [report jspons](https://github.com/joomla/joomla-websites/issues/new?title=[jspons]%20&body=Please%20describe%20the%20problem%20or%20your%20issue)
+user-interface-text | joomla.github.io/user-interface-text | [report juit](https://github.com/joomla/joomla-websites/issues/new?title=[juit]%20&body=Please%20describe%20the%20problem%20or%20your%20issue)
 vel | vel.joomla.org | [report jvel](https://github.com/joomla/joomla-websites/issues/new?title=[jvel]%20&body=Please%20describe%20the%20problem%20or%20your%20issue)
 volunteers | volunteers.joomla.org | [report jvols](https://github.com/joomla/joomla-websites/issues/new?title=[jvols]%20&body=Please%20describe%20the%20problem%20or%20your%20issue)
 joomla! 3 | joomla.org/3 | [report j3](https://github.com/joomla/joomla-websites/issues/new?title=[j3]%20&body=Please%20describe%20the%20problem%20or%20your%20issue)
