@@ -1,10 +1,10 @@
 ## Report a Problem with an official Joomla! Project Website
 
-If you need to report a problem with one of the Joomla website owned by the project, for example: Joomla.org, please use one of the following links to create an issue. You will need a GitHub account to report an issue. If you don't have one you can **[create](https://github.com/join)** one.
+If you need to report a problem with one of the Joomla website owned by the project, for example: joomla.org, please use one of the following links to create an issue. You will need a GitHub account to report an issue. If you don't have one you can **[create](https://github.com/join)** one.
 
 To help the webmasters, please:
 
-1. **DO NOT report security issues here, report them to the [Joomla Security Strike Team](http://developer.joomla.org/contact-security-team.html)**
+1. **DO NOT report security issues here, report them to the [Joomla Security Strike Team](https://developer.joomla.org/contact-security-team.html)**
 2. Use a descriptive title
 3. Give a description of the problem you encountered
 4. Provide a link if it is on a specific page, images also help explain issues for people to fix
@@ -16,10 +16,10 @@ Website | URL | Reporting Links
 joomla.org | [joomla.org](https://www.joomla.org) | [report j.org](https://github.com/joomla/joomla-websites/issues/new?title=[jorg]%20&body=Please%20describe%20the%20problem%20or%20your%20issue)
 test-joomla.org | [repository.joomla.org](http://repository.joomla.org) | [report jrepo](https://github.com/joomla/joomla-websites/issues/new?title=[jrepo]%20&body=Please%20describe%20the%20problem%20or%20your%20issue)
 api | [api.joomla.org](https://api.joomla.org) | [report japi](https://github.com/joomla/joomla-websites/issues/new?title=[japi]%20&body=Please%20describe%20the%20problem%20or%20your%20issue)
-certification | [certification.joomla.org](http://certification.joomla.org) | [report jcertif](https://github.com/joomla/joomla-websites/issues/new?title=[jcertif]%20&body=Please%20describe%20the%20problem%20or%20your%20issue)
+certification | [certification.joomla.org](https://certification.joomla.org) | [report jcertif](https://github.com/joomla/joomla-websites/issues/new?title=[jcertif]%20&body=Please%20describe%20the%20problem%20or%20your%20issue)
 coding-standards | [joomla.github.io/coding-standards](https://joomla.github.io/coding-standards/) | [report jstand](https://github.com/joomla/joomla-websites/issues/new?title=[jstand]%20&body=Please%20describe%20the%20problem%20or%20your%20issue)
-community | [community.joomla.org](http://community.joomla.org) | [report jcomm](https://github.com/joomla/joomla-websites/issues/new?title=[jcomm]%20&body=Please%20describe%20the%20problem%20or%20your%20issue)
-conference | [conference.joomla.org](http://conference.joomla.org) | [report jconf](https://github.com/joomla/joomla-websites/issues/new?title=[jconf]%20&body=Please%20describe%20the%20problem%20or%20your%20issue)
+community | [community.joomla.org](https://community.joomla.org) | [report jcomm](https://github.com/joomla/joomla-websites/issues/new?title=[jcomm]%20&body=Please%20describe%20the%20problem%20or%20your%20issue)
+conference | [conference.joomla.org](https://conference.joomla.org) | [report jconf](https://github.com/joomla/joomla-websites/issues/new?title=[jconf]%20&body=Please%20describe%20the%20problem%20or%20your%20issue)
 dashboard | [dashboard.joomla.org](https://dashboard.joomla.org) | [report jdash](https://github.com/joomla/joomla-websites/issues/new?title=[jdash]%20&body=Please%20describe%20the%20problem%20or%20your%20issue)
 developer | [developer.joomla.org](https://developer.joomla.org) | [report jdev](https://github.com/joomla/joomla-websites/issues/new?title=[jdev]%20&body=Please%20describe%20the%20problem%20or%20your%20issue)
 docs | [docs.joomla.org](https://docs.joomla.org) | [report jdocs](https://github.com/joomla/joomla-websites/issues/new?title=[jdocs]%20&body=Please%20describe%20the%20problem%20or%20your%20issue)
@@ -35,8 +35,8 @@ issues | [issues.joomla.org](https://issues.joomla.org) | [report jissues](http:
 magazine | [magazine.joomla.org](http://magazine.joomla.org) | [report jmag](https://github.com/joomla/joomla-websites/issues/new?title=[jmag]%20&body=Please%20describe%20the%20problem%20or%20your%20issue)
 osm | [opensourcematters.org](http://opensourcematters.org) | [report josm](https://github.com/joomla/joomla-websites/issues/new?title=[josm]%20&body=Please%20describe%20the%20problem%20or%20your%20issue)
 resources | [resources.joomla.org](http://resources.joomla.org) | [report jrd](https://github.com/joomla/joomla-websites/issues/new?title=[jrd]%20&body=Please%20describe%20the%20problem%20or%20your%20issue)
-shop | [shop.joomla.org](http://shop.joomla.org) | [report jshop](https://github.com/joomla/joomla-websites/issues/new?title=[jshop]%20&body=Please%20describe%20the%20problem%20or%20your%20issue)
-showcase | [community.joomla.org/showcase](http://community.joomla.org/showcase) | [report jshow](https://github.com/joomla/joomla-websites/issues/new?title=[jshow]%20&body=Please%20describe%20the%20problem%20or%20your%20issue)
+shop | [shop.joomla.org](https://shop.joomla.org) | [report jshop](https://github.com/joomla/joomla-websites/issues/new?title=[jshop]%20&body=Please%20describe%20the%20problem%20or%20your%20issue)
+showcase | [community.joomla.org/showcase](http://showcase.joomla.org/) | [report jshow](https://github.com/joomla/joomla-websites/issues/new?title=[jshow]%20&body=Please%20describe%20the%20problem%20or%20your%20issue)
 sponsor | [joomla.org/sponsor.html](https://www.joomla.org/sponsor.html) | [report jspons](https://github.com/joomla/joomla-websites/issues/new?title=[jspons]%20&body=Please%20describe%20the%20problem%20or%20your%20issue)
 trademark | [tm.joomla.org](https://tm.joomla.org) | [report jtm](https://github.com/joomla/joomla-websites/issues/new?title=[jtm]%20&body=Please%20describe%20the%20problem%20or%20your%20issue)
 update | [update.joomla.org](https://update.joomla.org) | [report update](https://github.com/joomla/update.joomla.org/issues/new?title=[update]%20&body=Please%20describe%20the%20problem%20or%20your%20issue)
