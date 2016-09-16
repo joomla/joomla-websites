@@ -31,7 +31,7 @@ framework | [framework.joomla.org](https://framework.joomla.org) | [report FW](h
 help | [help.joomla.org](https://help.joomla.org) | [report jhelp](https://github.com/joomla/joomla-websites/issues/new?title=[jhelp]%20&body=Please%20describe%20the%20problem%20or%20your%20issue)
 ideas | [ideas.joomla.org](http://ideas.joomla.org) | [report jideas](https://github.com/joomla/joomla-websites/issues/new?title=[jideas]%20&body=Please%20describe%20the%20problem%20or%20your%20issue)
 issues | [issues.joomla.org](https://issues.joomla.org) | [report jissues](http://issues.joomla.org/tracker/jtracker)
-magazine | [magazine.joomla.org](http://magazine.joomla.org) | [report jmag](https://github.com/joomla/joomla-websites/issues/new?title=[jmag]%20&body=Please%20describe%20the%20problem%20or%20your%20issue)
+magazine | [magazine.joomla.org](http://magazine.joomla.org) | [report jcm](https://github.com/joomla/joomla-websites/issues/new?title=[jcm]%20&body=Please%20describe%20the%20problem%20or%20your%20issue)
 osm | [opensourcematters.org](http://opensourcematters.org) | [report josm](https://github.com/joomla/joomla-websites/issues/new?title=[josm]%20&body=Please%20describe%20the%20problem%20or%20your%20issue)
 resources | [resources.joomla.org](http://resources.joomla.org) | [report jrd](https://github.com/joomla/joomla-websites/issues/new?title=[jrd]%20&body=Please%20describe%20the%20problem%20or%20your%20issue)
 shop | [community.joomla.org/the-joomla-shop.html](https://community.joomla.org/the-joomla-shop.html) | [report jshop](https://github.com/joomla/joomla-websites/issues/new?title=[jshop]%20&body=Please%20describe%20the%20problem%20or%20your%20issue)
