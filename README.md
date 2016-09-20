@@ -23,7 +23,7 @@ conference | [conference.joomla.org](https://conference.joomla.org) | [report jc
 developer | [developer.joomla.org](https://developer.joomla.org) | [report jdev](https://github.com/joomla/joomla-websites/issues/new?title=[jdev]%20&body=Please%20describe%20the%20problem%20or%20your%20issue)
 docs | [docs.joomla.org](https://docs.joomla.org) | [report jdocs](https://github.com/joomla/joomla-websites/issues/new?title=[jdocs]%20&body=Please%20describe%20the%20problem%20or%20your%20issue)
 downloads | [downloads.joomla.org](https://downloads.joomla.org) | [report jdown](https://github.com/joomla/joomla-websites/issues/new?title=[jdown]%20&body=Please%20describe%20the%20problem%20or%20your%20issue)
-events | [events.joomla.org](https://events.joomla.org) | [report jevnt](https://github.com/joomla/joomla-websites/issues/new?title=[jevnt]%20&body=Please%20describe%20the%20problem%20or%20your%20issue)
+events | [community.joomla.org/events.html](https://community.joomla.org/events.html) | [report jevnt](https://github.com/joomla/joomla-websites/issues/new?title=[jevnt]%20&body=Please%20describe%20the%20problem%20or%20your%20issue)
 exam | [exam.joomla.org](https://exam.joomla.org) | [report jexam](https://github.com/joomla/joomla-websites/issues/new?title=[jexam]%20&body=Please%20describe%20the%20problem%20or%20your%20issue)
 extensions | [extensions.joomla.org](https://extensions.joomla.org) | [report jed](https://joomlaextensionsdirectory.atlassian.net/secure/Dashboard.jspa)
 forum | [forum.joomla.org](http://forum.joomla.org) | [report jforum](https://github.com/joomla/joomla-websites/issues/new?title=[jforum]%20&body=Please%20describe%20the%20problem%20or%20your%20issue)
