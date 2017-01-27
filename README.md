@@ -25,7 +25,7 @@ docs | [docs.joomla.org](https://docs.joomla.org) | [report jdocs](https://githu
 downloads | [downloads.joomla.org](https://downloads.joomla.org) | [report jdown](https://github.com/joomla/joomla-websites/issues/new?title=[jdown]%20)
 events | [community.joomla.org/events.html](https://community.joomla.org/events.html) | [report jevnt](https://github.com/joomla/joomla-websites/issues/new?title=[jevnt]%20)
 exam | [exam.joomla.org](https://exam.joomla.org) | [report jexam](https://github.com/joomla/joomla-websites/issues/new?title=[jexam]%20)
-extensions | [extensions.joomla.org](https://extensions.joomla.org) | [report jed](https://joomlaextensionsdirectory.atlassian.net/secure/Dashboard.jspa)
+extensions | [extensions.joomla.org](https://extensions.joomla.org) | [report jed](https://github.com/joomla/jed-issues/issues/new)
 forum | [forum.joomla.org](https://forum.joomla.org) | [report jforum](https://github.com/joomla/joomla-websites/issues/new?title=[jforum]%20)
 framework | [framework.joomla.org](https://framework.joomla.org) | [report FW](https://github.com/joomla/framework.joomla.org/issues/new?title=[FW%20Site]&body=Please%20state%20the%20nature%20of%20your%20development%20emergency)
 help | [help.joomla.org](https://help.joomla.org) | [report jhelp](https://github.com/joomla/joomla-websites/issues/new?title=[jhelp]%20)
