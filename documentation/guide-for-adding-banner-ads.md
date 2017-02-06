@@ -1,5 +1,5 @@
 # Banner Ads Implementation Guide for all joomla.org sites
-This file describes how our banner ads server works and how Joomla.org web masters should correctly implement the ad serving code on our web properties.
+This file describes how Joomla.org web masters should implement the ad serving code on our web properties.
 
 ## ads.joomla.org
 We are running our own internal ([Revive](https://www.revive-adserver.com/)) ad server that should be serving all our ads. *We should not be serving ads directly from AdSense.*
@@ -11,13 +11,15 @@ The code to show ads is simple and in two parts.
 ```html
 <script async src="//ads.joomla.org/www/delivery/asyncjs.php"></script>
 ```
-This code should be included **once** per page
+This code should be included **once** per page. The best way to include this code is most likely by pasting it into the template of the site. The code should be inside the `<body>` of the page near the `</body>` closing tag.
 
 ### Zone specific code
 ```html
 <ins data-revive-zoneid="xx" data-revive-id="4bacaeba2f8655edc9ca810c946aab5a"></ins>
 ```
-The xx should be replaced with a zone ID given to you by the team managing the ad server. If you need to get one or more zone id's for a site then please contect soren.beck-jensen@community.joomla.org
+The xx should be replaced with a zone ID given to you by the team managing the ad server. A good way to do this is to create a Joomla module with custom html. Make sure you disable the editor when pasting in or editing this code as it might otherwise strip some of the html.
+
+If you need to get one or more zone id's for a site then please contect soren.beck-jensen@community.joomla.org
 
 ## Ad formats
 We currently have two (well kind of three) ad formats that you can implement on your site.
@@ -63,7 +65,7 @@ The width of the right hand column the current standard Joomla template is only 
 This code can be written inline or added to you custom.css file. Then simply add a `<div>` with the class `ad270` and your ad will be scaled.
 
 ```html
-<div class="ad270"><ins data-revive-zoneid="xx" data-revive-id="xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"></ins></div>
+<div class="ad270"><ins data-revive-zoneid="xx" data-revive-id="4bacaeba2f8655edc9ca810c946aab5a"></ins></div>
 ```
 
 
