@@ -4,7 +4,7 @@ If you need to report a problem with one of the Joomla website owned by the proj
 
 To help the webmasters, please:
 
-1. **DO NOT report security issues here, report them to the [Joomla Security Strike Team](https://developer.joomla.org/contact-security-team.html)**
+1. **DO NOT report security issues here, report them to the [Joomla! Security Strike Team](https://developer.joomla.org/contact-security-team.html)**
 2. Use a descriptive title
 3. Give a description of the problem you encountered
 4. Provide a link if it is on a specific page, images also help explain issues for people to fix
