@@ -21,7 +21,7 @@ The xx should be replaced with a zone ID given to you by the team managing the a
 
 A good way to do add this code is to create a Joomla module with custom html. Make sure you disable the editor when pasting in or editing this code as it might otherwise strip some of the html.
 
-If you need to get one or more zone id's for a site then please contect soren.beck-jensen@community.joomla.org
+If you need to get one or more zone id's for a site then please contact soren.beck-jensen@community.joomla.org
 
 ## Ad formats
 We currently have two (well kind of three) ad formats that you can implement on your site.
