@@ -1,0 +1,1 @@
+This file will contain generic description about our setup of our banner ads and how to correctly install banner ads on a Joomla web site as well as who to contact for help and getting one or more zone ID's.
