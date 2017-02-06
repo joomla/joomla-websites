@@ -17,7 +17,9 @@ This code should be included **once** per page. The best way to include this cod
 ```html
 <ins data-revive-zoneid="xx" data-revive-id="4bacaeba2f8655edc9ca810c946aab5a"></ins>
 ```
-The xx should be replaced with a zone ID given to you by the team managing the ad server. A good way to do this is to create a Joomla module with custom html. Make sure you disable the editor when pasting in or editing this code as it might otherwise strip some of the html.
+The xx should be replaced with a zone ID given to you by the team managing the ad server. 
+
+A good way to do add this code is to create a Joomla module with custom html. Make sure you disable the editor when pasting in or editing this code as it might otherwise strip some of the html.
 
 If you need to get one or more zone id's for a site then please contect soren.beck-jensen@community.joomla.org
 
