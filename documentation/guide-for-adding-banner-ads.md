@@ -11,7 +11,7 @@ The code to show ads is simple and in two parts.
 ```html
 <script async src="//ads.joomla.org/www/delivery/asyncjs.php"></script>
 ```
-This code should be included **once** per page. The best way to include this code is most likely by pasting it into the template of the site. The code should be inside the `<body>` of the page near the `</body>` closing tag.
+This code should be included **once** per page. The best way to include this code is most likely by pasting it into a custom module that is included on all pages of the site. The code should be inside the `<body>` of the page near the `</body>` closing tag if possible.
 
 ### Zone specific code
 ```html
@@ -37,7 +37,7 @@ This ad format is also very popular and generally attracts more clicks, but is c
 ![Eample banner](http://placehold.it/300x250)
 
 ### 270 x 225 (Custom size)
-The width of the right hand column the current standard Joomla template is only 270px wide so fitting the above banner into breaks layout. To overcome this, we have developed a little code snippit that will scale the above medium rectangle down a little.
+The width of the right hand column in many of our sites is only 270px wide so fitting the above banner into it breaks layout. To overcome this, we have developed a little code snippit that will scale the above medium rectangle down a little.
 
 #### Scaling CSS code
 ```html
