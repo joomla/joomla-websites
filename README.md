@@ -17,7 +17,7 @@ joomla.org | [joomla.org](https://www.joomla.org) | [report j.org](https://githu
 test-joomla.org | [repository.joomla.org](http://repository.joomla.org) | [report jrepo](https://github.com/joomla/joomla-websites/issues/new?title=[jrepo]%20)
 api | [api.joomla.org](https://api.joomla.org) | [report japi](https://github.com/joomla/joomla-websites/issues/new?title=[japi]%20)
 certification | [certification.joomla.org](https://certification.joomla.org) | [report jcertif](https://github.com/joomla/joomla-websites/issues/new?title=[jcertif]%20)
-coding-standards | [joomla.github.io/coding-standards](https://joomla.github.io/coding-standards/) | [report jstand](https://github.com/joomla/joomla-websites/issues/new?title=[jstand]%20)
+coding-standards | [developer.joomla.org/coding-standards.html](https://developer.joomla.org/coding-standards.html) | [report jstand](https://github.com/joomla/joomla-websites/issues/new?title=[jstand]%20)
 community | [community.joomla.org](https://community.joomla.org) | [report jcomm](https://github.com/joomla/joomla-websites/issues/new?title=[jcomm]%20)
 conference | [conference.joomla.org](https://conference.joomla.org) | [report jconf](https://github.com/joomla/joomla-websites/issues/new?title=[jconf]%20)
 developer | [developer.joomla.org](https://developer.joomla.org) | [report jdev](https://github.com/joomla/joomla-websites/issues/new?title=[jdev]%20)
