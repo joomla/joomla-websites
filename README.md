@@ -41,6 +41,6 @@ trademark | [tm.joomla.org](https://tm.joomla.org) | [report jtm](https://github
 training | [community.joomla.org/joomla-training.html](https://community.joomla.org/joomla-training.html) | [report jtrain](https://github.com/joomla/joomla-websites/issues/new?title=[jtrain]%20)
 update | [update.joomla.org](https://update.joomla.org) | [report update](https://github.com/joomla/update.joomla.org/issues/new?title=[update]%20)
 vel | [vel.joomla.org](https://vel.joomla.org) | [report jvel](https://github.com/joomla/joomla-websites/issues/new?title=[jvel]%20)
-volunteers | [volunteers.joomla.org](https://volunteers.joomla.org) | [report jvols](https://github.com/joomla/joomla-websites/issues/new?title=[jvols]%20)
+volunteers | [volunteers.joomla.org](https://volunteers.joomla.org) | [report jvols](https://github.com/joomla/volunteers.joomla.org/issues/new?title=[jvols]%20)
 joomla! 3 | [joomla.org/3](https://www.joomla.org/3) | [report j3](https://github.com/joomla/joomla-websites/issues/new?title=[j3]%20)
 joomlacode | [joomlacode.org](http://joomlacode.org) | [report jcode](https://github.com/joomla/joomla-websites/issues/new?title=[jcode]%20)
