@@ -15,20 +15,20 @@ Website | URL | Reporting Links | Repository
 ------- | ------ | ------ | ------
 joomla.org | [joomla.org](https://www.joomla.org) | [report j.org](https://github.com/joomla/joomla-websites/issues/new?title=[jorg]%20) | https://github.com/joomla/joomla.org
 test-joomla.org | [repository.joomla.org](http://repository.joomla.org) | [report jrepo](https://github.com/joomla/joomla-websites/issues/new?title=[jrepo]%20) | N/A
-api | [api.joomla.org](https://api.joomla.org) | [report japi](https://github.com/joomla/joomla-websites/issues/new?title=[japi]%20) | https://github.com/joomla/api.joomla.org
+api | [api.joomla.org](https://api.joomla.org) | [report japi](https://github.com/joomla/api.joomla.org/issues/new?title=[japi]%20) | https://github.com/joomla/api.joomla.org
 certification | [certification.joomla.org](https://certification.joomla.org) | [report jcertif](https://github.com/joomla/joomla-websites/issues/new?title=[jcertif]%20) | N/A
 coding-standards | [developer.joomla.org/coding-standards.html](https://developer.joomla.org/coding-standards.html) | [report jstand](https://github.com/joomla/joomla-websites/issues/new?title=[jstand]%20) | https://github.com/joomla/coding-standards
 community | [community.joomla.org](https://community.joomla.org) | [report jcomm](https://github.com/joomla/joomla-websites/issues/new?title=[jcomm]%20) | N/A
 conference | [conference.joomla.org](https://conference.joomla.org) | [report jconf](https://github.com/joomla/joomla-websites/issues/new?title=[jconf]%20) | N/A
 developer | [developer.joomla.org](https://developer.joomla.org) | [report jdev](https://github.com/joomla/joomla-websites/issues/new?title=[jdev]%20) | https://github.com/joomla/developer.joomla.org
 docs | [docs.joomla.org](https://docs.joomla.org) | [report jdocs](https://github.com/joomla/joomla-websites/issues/new?title=[jdocs]%20) | N/A
-downloads | [downloads.joomla.org](https://downloads.joomla.org) | [report jdown](https://github.com/joomla/joomla-websites/issues/new?title=[jdown]%20) | https://github.com/joomla/downloads.joomla.org
+downloads | [downloads.joomla.org](https://downloads.joomla.org) | [report jdown](https://github.com/joomla/downloads.joomla.org/issues/new?title=[jdown]%20) | https://github.com/joomla/downloads.joomla.org
 events | [community.joomla.org/events.html](https://community.joomla.org/events.html) | [report jevnt](https://github.com/joomla/joomla-websites/issues/new?title=[jevnt]%20) | N/A
 exam | [exam.joomla.org](https://exam.joomla.org) | [report jexam](https://github.com/joomla/joomla-websites/issues/new?title=[jexam]%20) | N/A
 extensions | [extensions.joomla.org](https://extensions.joomla.org) | [report jed](https://github.com/joomla/jed-issues/issues/new) | N/A
 forum | [forum.joomla.org](https://forum.joomla.org) | [report jforum](https://github.com/joomla/joomla-websites/issues/new?title=[jforum]%20) | N/A
 framework | [framework.joomla.org](https://framework.joomla.org) | [report FW](https://github.com/joomla/framework.joomla.org/issues/new?title=[FW%20Site]&body=Please%20state%20the%20nature%20of%20your%20development%20emergency) | https://github.com/joomla/framework.joomla.org
-help | [help.joomla.org](https://help.joomla.org) | [report jhelp](https://github.com/joomla/joomla-websites/issues/new?title=[jhelp]%20) | https://github.com/joomla/help.joomla.org
+help | [help.joomla.org](https://help.joomla.org) | [report jhelp](https://github.com/joomla/help.joomla.org/issues/new?title=[jhelp]%20) | https://github.com/joomla/help.joomla.org
 ideas | [ideas.joomla.org](http://ideas.joomla.org) | [report jideas](https://github.com/joomla/joomla-websites/issues/new?title=[jideas]%20) | N/A
 issues | [issues.joomla.org](https://issues.joomla.org) | [report jissues](http://issues.joomla.org/tracker/jtracker) | https://github.com/joomla/jissues
 magazine | [magazine.joomla.org](https://magazine.joomla.org) | [report jcm](https://github.com/joomla/joomla-websites/issues/new?title=[jcm]%20) | N/A
