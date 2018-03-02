@@ -29,12 +29,10 @@ extensions | [extensions.joomla.org](https://extensions.joomla.org) | [report je
 forum | [forum.joomla.org](https://forum.joomla.org) | [report jforum](https://github.com/joomla/joomla-websites/issues/new?title=[jforum]%20) | N/A
 framework | [framework.joomla.org](https://framework.joomla.org) | [report FW](https://github.com/joomla/framework.joomla.org/issues/new?title=[FW%20Site]&body=Please%20state%20the%20nature%20of%20your%20development%20emergency) | https://github.com/joomla/framework.joomla.org
 help | [help.joomla.org](https://help.joomla.org) | [report jhelp](https://github.com/joomla/joomla-websites/issues/new?title=[jhelp]%20) | https://github.com/joomla/help.joomla.org
-ideas | [ideas.joomla.org](http://ideas.joomla.org) | [report jideas](https://github.com/joomla/joomla-websites/issues/new?title=[jideas]%20) | N/A
 issues | [issues.joomla.org](https://issues.joomla.org) | [report jissues](http://issues.joomla.org/tracker/jtracker) | https://github.com/joomla/jissues
 magazine | [magazine.joomla.org](https://magazine.joomla.org) | [report jcm](https://github.com/joomla/joomla-websites/issues/new?title=[jcm]%20) | N/A
-osm | [opensourcematters.org](http://opensourcematters.org) | [report josm](https://github.com/joomla/joomla-websites/issues/new?title=[josm]%20) | N/A
-resources | [resources.joomla.org](http://resources.joomla.org) | [report jrd](https://github.com/joomla/joomla-websites/issues/new?title=[jrd]%20) | N/A
-shop | [community.joomla.org/the-joomla-shop.html](https://community.joomla.org/the-joomla-shop.html) | [report jshop](https://github.com/joomla/joomla-websites/issues/new?title=[jshop]%20) | N/A
+osm | [opensourcematters.org](https://opensourcematters.org) | [report josm](https://github.com/joomla/joomla-websites/issues/new?title=[josm]%20) | N/A
+resources | [resources.joomla.org](https://resources.joomla.org) | [report jrd](https://github.com/joomla/joomla-websites/issues/new?title=[jrd]%20) | N/A
 showcase | [showcase.joomla.org](https://showcase.joomla.org) | [report jshow](https://github.com/joomla/joomla-websites/issues/new?title=[jshow]%20) | N/A
 sponsor | [joomla.org/sponsor.html](https://www.joomla.org/sponsor.html) | [report jspons](https://github.com/joomla/joomla-websites/issues/new?title=[jspons]%20) | N/A
 trademark | [tm.joomla.org](https://tm.joomla.org) | [report jtm](https://github.com/joomla/joomla-websites/issues/new?title=[jtm]%20) | N/A
