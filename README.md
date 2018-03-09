@@ -14,7 +14,7 @@ To help the webmasters, please:
 Website | URL | Reporting Links | Repository
 ------- | ------ | ------ | ------
 joomla.org | [joomla.org](https://www.joomla.org) | [report j.org](https://github.com/joomla/joomla-websites/issues/new?title=[jorg]%20) | https://github.com/joomla/joomla.org
-test-joomla.org | [repository.joomla.org](http://repository.joomla.org) | [report jrepo](https://github.com/joomla/joomla-websites/issues/new?title=[jrepo]%20) | N/A
+test-joomla.org | [repository.joomla.org](https://repository.joomla.org) | [report jrepo](https://github.com/joomla/joomla-websites/issues/new?title=[jrepo]%20) | N/A
 api | [api.joomla.org](https://api.joomla.org) | [report japi](https://github.com/joomla/api.joomla.org/issues/new?title=[japi]%20) | https://github.com/joomla/api.joomla.org
 certification | [certification.joomla.org](https://certification.joomla.org) | [report jcertif](https://github.com/joomla/joomla-websites/issues/new?title=[jcertif]%20) | N/A
 coding-standards | [developer.joomla.org/coding-standards.html](https://developer.joomla.org/coding-standards.html) | [report jstand](https://github.com/joomla/joomla-websites/issues/new?title=[jstand]%20) | https://github.com/joomla/coding-standards
