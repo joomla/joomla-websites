@@ -22,6 +22,7 @@ community | [community.joomla.org](https://community.joomla.org) | [report jcomm
 conference | [conference.joomla.org](https://conference.joomla.org) | [report jconf](https://github.com/joomla/joomla-websites/issues/new?title=[jconf]%20) | N/A
 developer | [developer.joomla.org](https://developer.joomla.org) | [report jdev](https://github.com/joomla/joomla-websites/issues/new?title=[jdev]%20) | https://github.com/joomla/developer.joomla.org
 docs | [docs.joomla.org](https://docs.joomla.org) | [report jdocs](https://github.com/joomla/joomla-websites/issues/new?title=[jdocs]%20) | N/A
+domains | [domains.joomla.org](https://domains.joomla.org) | [report jdomain](https://github.com/joomla/joomla-websites/issues/new?title=[jdomain]%20) | N/A
 downloads | [downloads.joomla.org](https://downloads.joomla.org) | [report jdown](https://github.com/joomla/downloads.joomla.org/issues/new?title=[jdown]%20) | https://github.com/joomla/downloads.joomla.org
 events | [community.joomla.org/events.html](https://community.joomla.org/events.html) | [report jevnt](https://github.com/joomla/joomla-websites/issues/new?title=[jevnt]%20) | N/A
 exam | [exam.joomla.org](https://exam.joomla.org) | [report jexam](https://github.com/joomla/joomla-websites/issues/new?title=[jexam]%20) | N/A
