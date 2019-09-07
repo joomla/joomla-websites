@@ -28,6 +28,7 @@ events | [community.joomla.org/events.html](https://community.joomla.org/events.
 exam | [exam.joomla.org](https://exam.joomla.org) | [report jexam](https://github.com/joomla/joomla-websites/issues/new?title=[jexam]%20) | N/A
 extensions | [extensions.joomla.org](https://extensions.joomla.org) | [report jed](https://github.com/joomla/jed-issues/issues/new) | N/A
 forum | [forum.joomla.org](https://forum.joomla.org) | [report jforum](https://github.com/joomla/joomla-websites/issues/new?title=[jforum]%20) | N/A
+foundation | [foundation.joomla.org](https://foundation.joomla.org) | [report jfoundation](https://github.com/joomla/joomla-websites/issues/new?title=[jfoundation]%20) | N/A
 framework | [framework.joomla.org](https://framework.joomla.org) | [report FW](https://github.com/joomla/framework.joomla.org/issues/new?title=[FW%20Site]&body=Please%20state%20the%20nature%20of%20your%20development%20emergency) | https://github.com/joomla/framework.joomla.org
 help | [help.joomla.org](https://help.joomla.org) | [report jhelp](https://github.com/joomla/help.joomla.org/issues/new?title=[jhelp]%20) | https://github.com/joomla/help.joomla.org
 issues | [issues.joomla.org](https://issues.joomla.org) | [report jissues](http://issues.joomla.org/tracker/jtracker) | https://github.com/joomla/jissues
