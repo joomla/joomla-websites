@@ -39,6 +39,11 @@ DirectoryIndex index.php index.html
 ###########################################
 
 ###########################################
+# ========== Add redirects here ===========
+
+###########################################
+
+###########################################
 # === Optimal default expiration time ===
 <IfModule mod_expires.c>
 	# Enable expiration control
