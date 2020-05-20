@@ -148,6 +148,30 @@ DirectoryIndex index.php index.html
 ###########################################
 
 ###########################################
+# ===== Advanced server protection  =======
+## Disable PHP Easter Eggs
+RewriteCond %{QUERY_STRING} \=PHP[a-f0-9]{8}-[a-f0-9]{4}-[a-f0-9]{4}-[a-f0-9]{4}-[a-f0-9]{12} [NC]
+RewriteRule .* - [F]
+
+#### Front-end protection
+## Allow limited access for certain directories with client-accessible content
+RewriteRule ^(components|modules|templates|images|plugins|media|libraries|media/jui/fonts|cache/com_comment/init)/.*\.(jpe|jpg|jpeg|jp2|jpe2|png|gif|bmp|css|js|swf|html|mpg|mp3|mpeg|mp4|avi|wav|ogg|ogv|xls|xlsx|doc|docx|ppt|pptx|zip|rar|pdf|xps|txt|7z|svg|odt|ods|odp|flv|mov|ico|htm|ttf|woff|eot|JPG|JPEG|PNG|GIF|CSS|JS|TTF|WOFF|EOT)$ - [L]
+RewriteRule ^(components|modules|templates|images|plugins|media|libraries|media/jui/fonts|cache/com_comment/init)/ - [F]
+## Disallow front-end access for certain Joomla! system directories (unless access to their files is allowed above)
+RewriteRule ^includes/js/ - [L]
+RewriteRule ^(cache|includes|language|logs|log|tmp)/ - [F]
+RewriteRule ^(configuration\.php|CONTRIBUTING\.md|htaccess\.txt|joomla\.xml|LICENSE\.txt|phpunit\.xml|README\.txt|web\.config\.txt) - [F]
+
+## Explicitly allow access to the site's index.php main entry point file
+RewriteRule ^index.php(/.*){0,1}$ - [L]
+## Explicitly allow access to the site's robots.txt file
+RewriteRule ^robots.txt$ - [L]
+
+## Disallow access to htaccess.txt, php.ini, .user.ini and configuration.php-dist
+RewriteRule ^(htaccess\.txt|configuration\.php-dist|php\.ini|\.user\.ini)$ - [F]
+###########################################
+
+###########################################
 # =========== Security Headers ============
 <IfModule mod_headers.c>
 	# X-XSS-Protection
