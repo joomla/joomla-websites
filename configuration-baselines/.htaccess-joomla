@@ -173,6 +173,8 @@ RewriteRule ^(htaccess\.txt|configuration\.php-dist|php\.ini|\.user\.ini)$ - [F]
 ###########################################
 # =========== Security Headers ============
 <IfModule mod_headers.c>
+	# X-Powered-By
+	Header unset X-Powered-By
 	# X-XSS-Protection
 	Header always set X-XSS-Protection "1; mode=block"
 	# X-Frame-Options
