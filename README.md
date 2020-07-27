@@ -18,14 +18,13 @@ api | [api.joomla.org](https://api.joomla.org) | [report japi](https://github.co
 certification | [certification.joomla.org](https://certification.joomla.org) | [report jcertif](https://github.com/joomla/joomla-websites/issues/new?title=[jcertif]%20) | https://github.com/joomla/certification.joomla.org
 coding-standards | [developer.joomla.org/coding-standards.html](https://developer.joomla.org/coding-standards.html) | [report jstand](https://github.com/joomla/joomla-websites/issues/new?title=[jstand]%20) | https://github.com/joomla/coding-standards
 community | [community.joomla.org](https://community.joomla.org) | [report jcomm](https://github.com/joomla/joomla-websites/issues/new?title=[jcomm]%20) | https://github.com/joomla/community.joomla.org
-conference | [conference.joomla.org](https://conference.joomla.org) | [report jconf](https://github.com/joomla/joomla-websites/issues/new?title=[jconf]%20) | https://github.com/joomla/conference.joomla.org
 developer | [developer.joomla.org](https://developer.joomla.org) | [report jdev](https://github.com/joomla/joomla-websites/issues/new?title=[jdev]%20) | https://github.com/joomla/developer.joomla.org
 docs | [docs.joomla.org](https://docs.joomla.org) | [report jdocs](https://github.com/joomla/joomla-websites/issues/new?title=[jdocs]%20) | N/A
 domains | [domains.joomla.org](https://domains.joomla.org) | [report jdomain](https://github.com/joomla/joomla-websites/issues/new?title=[jdomain]%20) | N/A
 downloads | [downloads.joomla.org](https://downloads.joomla.org) | [report jdown](https://github.com/joomla/downloads.joomla.org/issues/new?title=[jdown]%20) | https://github.com/joomla/downloads.joomla.org
 events | [community.joomla.org/events.html](https://community.joomla.org/events.html) | [report jevnt](https://github.com/joomla/joomla-websites/issues/new?title=[jevnt]%20) | N/A
 exam | [exam.joomla.org](https://exam.joomla.org) | [report jexam](https://github.com/joomla/joomla-websites/issues/new?title=[jexam]%20) | N/A
-extensions | [extensions.joomla.org](https://extensions.joomla.org) | [report jed](https://github.com/joomla/jed-issues/issues/new) | N/A
+extensions & vel | [extensions.joomla.org](https://extensions.joomla.org) | [report jed](https://github.com/joomla/jed-issues/issues/new) | N/A
 forum | [forum.joomla.org](https://forum.joomla.org) | [report jforum](https://github.com/joomla/joomla-websites/issues/new?title=[jforum]%20) | https://github.com/joomla/forum.joomla.org
 foundation | [foundation.joomla.org](https://foundation.joomla.org) | [report jfoundation](https://github.com/joomla/joomla-websites/issues/new?title=[jfoundation]%20) | https://github.com/joomla/foundation.joomla.org
 framework | [framework.joomla.org](https://framework.joomla.org) | [report FW](https://github.com/joomla/framework.joomla.org/issues/new?title=[FW%20Site]&body=Please%20state%20the%20nature%20of%20your%20development%20emergency) | https://github.com/joomla/framework.joomla.org
@@ -41,7 +40,6 @@ sponsor | [joomla.org/sponsor.html](https://www.joomla.org/sponsor.html) | [repo
 trademark | [tm.joomla.org](https://tm.joomla.org) | [report jtm](https://github.com/joomla/joomla-websites/issues/new?title=[jtm]%20) | https://github.com/joomla/tm.joomla.org
 training | [community.joomla.org/joomla-training.html](https://community.joomla.org/joomla-training.html) | [report jtrain](https://github.com/joomla/joomla-websites/issues/new?title=[jtrain]%20) | https://github.com/joomla/community.joomla.org
 update | [update.joomla.org](https://update.joomla.org) | [report update](https://github.com/joomla/update.joomla.org/issues/new?title=[update]%20) | https://github.com/joomla/update.joomla.org
-vel | [vel.joomla.org](https://vel.joomla.org) | [report jvel](https://github.com/joomla/joomla-websites/issues/new?title=[jvel]%20) | https://github.com/joomla/vel.joomla.org
 volunteers | [volunteers.joomla.org](https://volunteers.joomla.org) | [report jvols](https://github.com/joomla/volunteers.joomla.org/issues/new?title=[jvols]%20) | https://github.com/joomla/volunteers.joomla.org
 joomla! 3 | [joomla.org/3](https://www.joomla.org/3) | [report j3](https://github.com/joomla/joomla-websites/issues/new?title=[j3]%20) | N/A
 joomlacode | [joomlacode.org](http://joomlacode.org) | [report jcode](https://github.com/joomla/joomla-websites/issues/new?title=[jcode]%20) | N/A
