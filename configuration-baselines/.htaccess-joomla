@@ -186,6 +186,14 @@ RewriteRule ^(htaccess\.txt|configuration\.php-dist|php\.ini|\.user\.ini)$ - [F]
 	# Strict-Transport-Security
 	Header always set Strict-Transport-Security "max-age=31536000; includeSubDomains"
 </IfModule>
+
+## Since Joomla 3.9.21
+## Disable inline JavaScript when directly opening SVG files or embedding them with the object-tag
+<FilesMatch "\.svg$">
+  <IfModule mod_headers.c>
+    Header always set Content-Security-Policy "script-src 'none'"
+  </IfModule>
+</FilesMatch>
 ###########################################
 
 ###########################################
