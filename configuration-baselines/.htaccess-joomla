@@ -473,7 +473,7 @@ RewriteRule ^administrator/ - [F]
 
 # =============== Frontend ===============
 ## Allow limited access for certain directories with client-accessible content
-RewriteRule ^(components|modules|templates|images|plugins|media|libraries|media/jui/fonts)/.*\.(jpe|jpg|jpeg|jp2|jpe2|svg|png|gif|bmp|css|js|swf|html|mpg|mp3|mpeg|mp4|avi|wav|ogg|ogv|xls|xlsx|doc|docx|ppt|pptx|zip|rar|pdf|xps|txt|7z|svg|odt|ods|odp|flv|mov|ico|htm|ttf|woff|eot)$ - [L,NC]
+RewriteRule ^(components|modules|templates|images|plugins|media|libraries|media/jui/fonts)/.*\.(jpe|jpg|jpeg|jp2|jpe2|svg|png|gif|bmp|css|js|swf|html|mpg|mp3|mpeg|mp4|avi|wav|ogg|ogv|xls|xlsx|doc|docx|ppt|pptx|zip|rar|pdf|xps|txt|7z|svg|odt|ods|odp|flv|mov|ico|htm|ttf|woff|woff2|eot)$ - [L,NC]
 RewriteRule ^(components|modules|templates|images|plugins|media|libraries|media/jui/fonts)/ - [F]
 ## Disallow front-end access for certain Joomla! system directories (unless access to their files is allowed above)
 RewriteRule ^(cache|includes|language|logs|log|tmp)/ - [F]
