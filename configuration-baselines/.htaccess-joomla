@@ -468,7 +468,7 @@ RewriteRule .* - [F]
 # =============== Backend ===============
 RewriteRule ^administrator/?$ - [L]
 RewriteRule ^administrator/index\.(php|html?)$ - [L]
-RewriteRule ^administrator/(components|modules|templates|images|plugins)/.*\.(jpe|jpg|jpeg|jp2|jpe2|png|gif|bmp|css|js|swf|html|mpg|mp3|mpeg|mp4|avi|wav|ogg|ogv|xls|xlsx|doc|docx|ppt|pptx|zip|rar|pdf|xps|txt|7z|svg|odt|ods|odp|flv|mov|htm|ttf|woff|woff2|eot|JPG|JPEG|PNG|GIF|CSS|JS|TTF|WOFF|WOFF2|EOT)$ - [L]
+RewriteRule ^administrator/(components|modules|templates|images|plugins)/.*\.(jpe|jpg|jpeg|jp2|jpe2|png|gif|bmp|css|js|swf|html|mpg|mp3|mpeg|mp4|avi|wav|ogg|ogv|xls|xlsx|doc|docx|ppt|pptx|zip|rar|pdf|xps|txt|7z|svg|odt|ods|odp|flv|mov|htm|ttf|woff|woff2|eot|ico|JPG|JPEG|PNG|GIF|CSS|JS|TTF|WOFF|WOFF2|EOT)$ - [L]
 RewriteRule ^administrator/ - [F]
 
 # =============== Frontend ===============
