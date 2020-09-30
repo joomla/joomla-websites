@@ -1,4 +1,4 @@
-## Report a Problem with an official Joomla! Project Website
+## Report a Problem with an official Joomla! An Amazing Project
 
 If you need to report a problem with one of the Joomla! websites owned by the project, for example: joomla.org, please use one of the following links to create an issue. You will need a GitHub account to report an issue. If you don't have one you can **[create](https://github.com/join)** one.
 
