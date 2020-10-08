@@ -483,6 +483,12 @@ RewriteRule ^(configuration\.php|htaccess\.txt|joomla\.xml|LICENSE\.txt|README\.
 RewriteRule ^index.php(/.*){0,1}$ - [L]
 ## Explicitly allow access to the site's robots.txt file
 RewriteRule ^robots.txt$ - [L]
+## Explicitly allow access to the site's sitemap.xml file
+RewriteRule ^sitemap.xml$ - [L]
+## Explicitly allow access to the site's googlecaed8dd1896fda3b.html file
+RewriteRule ^googlecaed8dd1896fda3b.html$ - [L]
+## Explicitly allow access to the site's favicon.ico file
+RewriteRule ^favicon.ico$ - [L]
 ## Disallow access to all other PHP files throughout the site, unless they are explicitly allowed
 RewriteCond %{REQUEST_FILENAME} (\.php)$
 RewriteCond %{REQUEST_FILENAME} -f
