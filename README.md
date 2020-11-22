@@ -23,7 +23,7 @@ docs | [docs.joomla.org](https://docs.joomla.org) | [report jdocs](https://githu
 domains | [domains.joomla.org](https://domains.joomla.org) | [report jdomain](https://github.com/joomla/joomla-websites/issues/new?title=[jdomain]%20) | N/A
 downloads | [downloads.joomla.org](https://downloads.joomla.org) | [report jdown](https://github.com/joomla/downloads.joomla.org/issues/new?title=[jdown]%20) | https://github.com/joomla/downloads.joomla.org
 events | [community.joomla.org/events.html](https://community.joomla.org/events.html) | [report jevnt](https://github.com/joomla/joomla-websites/issues/new?title=[jevnt]%20) | N/A
-exam | [exam.joomla.org](https://exam.joomla.org) | [report jexam](https://github.com/joomla/joomla-websites/issues/new?title=[jexam]%20) | N/A
+exam | [exam.joomla.org](https://exam.joomla.org) | [report jexam](https://github.com/joomla/joomla-websites/issues/new?title=[jexam]%20) | https://github.com/joomla/certification.joomla.org
 extensions & vel | [extensions.joomla.org](https://extensions.joomla.org) | [report jed](https://github.com/joomla/jed-issues/issues/new) | N/A
 forum | [forum.joomla.org](https://forum.joomla.org) | [report jforum](https://github.com/joomla/joomla-websites/issues/new?title=[jforum]%20) | https://github.com/joomla/forum.joomla.org
 foundation | [joomlafoundation.org](https://joomlafoundation.org) | [report jfoundation](https://github.com/joomla/joomla-websites/issues/new?title=[jfoundation]%20) | https://github.com/joomla/joomlafoundation.org
