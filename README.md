@@ -9,6 +9,8 @@ To help the webmasters, please:
 3. Give a description of the problem you encountered
 4. Provide a link if it is on a specific page, images also help explain issues for people to fix
 
+List on [Documentation website](https://docs.joomla.org/Joomla:The_Joomla_Websites) holds the teams as well.
+
 ### Websites
 
 Website | URL | Reporting Links | Repository
