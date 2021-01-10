@@ -11,6 +11,8 @@ To help the webmasters, please:
 
 List on [Documentation website](https://docs.joomla.org/Joomla:The_Joomla_Websites) holds the teams as well.
 
+Uptime status on [UpTimeRobot Status page](https://status.joomla.org/)
+
 ### Websites
 
 Website | URL | Reporting Links | Repository
