@@ -13,6 +13,8 @@ List on [Documentation website](https://docs.joomla.org/Joomla:The_Joomla_Websit
 
 Uptime status on [UpTimeRobot Status page](https://status.joomla.org/)
 
+Translations on [Crowdin Enterprise](https://joomla.crowdin.com/)
+
 ### Websites
 
 Website | URL | Reporting Links | Repository
