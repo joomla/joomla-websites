@@ -246,7 +246,6 @@ RewriteRule ^index\.php$ http%2://%{HTTP_HOST}/ [R,L]
 	SetEnvIf user-agent "WWW-Mechanize" stayout=1
 	SetEnvIf user-agent "WWWOFFLE" stayout=1
 	SetEnvIf user-agent "Xaldon WebSpider" stayout=1
-	SetEnvIf user-agent "Yandex" stayout=1
 	SetEnvIf user-agent "Zeus" stayout=1
 	SetEnvIf user-agent "zmeu" stayout=1
 	SetEnvIf user-agent "CazoodleBot" stayout=1
