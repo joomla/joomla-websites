@@ -520,6 +520,8 @@ RewriteRule !^index.php$ - [F]
 	Header always set Strict-Transport-Security "max-age=31536000; includeSubDomains"
 	# Cross-Origin-Opener-Policy
 	Header always set Cross-Origin-Opener-Policy "same-origin"
+	# Permissions-Policy Disable FLOC
+	Header always set Permissions-Policy: interest-cohort=()
 	# Content-Security-Policy
 	# The header is unique to every website
 	# Header always set Content-Security-Policy "default-src 'self';
