@@ -25,7 +25,7 @@ certification | [certification.joomla.org](https://certification.joomla.org) | [
 coding-standards | [developer.joomla.org/coding-standards.html](https://developer.joomla.org/coding-standards.html) | [report jstand](https://github.com/joomla/joomla-websites/issues/new?title=[jstand]%20) | https://github.com/joomla/coding-standards
 community | [community.joomla.org](https://community.joomla.org) | [report jcomm](https://github.com/joomla/joomla-websites/issues/new?title=[jcomm]%20) | https://github.com/joomla/community.joomla.org
 developer | [developer.joomla.org](https://developer.joomla.org) | [report jdev](https://github.com/joomla/joomla-websites/issues/new?title=[jdev]%20) | https://github.com/joomla/developer.joomla.org
-docs | [docs.joomla.org](https://docs.joomla.org) | [report jdocs](https://github.com/joomla/joomla-websites/issues/new?title=[jdocs]%20) | N/A
+docs | [docs.joomla.org](https://docs.joomla.org) | [report jdocs](https://github.com/joomla/joomla-websites/issues/new?title=[jdocs]%20) | https://github.com/joomla/docs.joomla.org
 domains | [domains.joomla.org](https://domains.joomla.org) | [report jdomain](https://github.com/joomla/joomla-websites/issues/new?title=[jdomain]%20) | N/A
 downloads | [downloads.joomla.org](https://downloads.joomla.org) | [report jdown](https://github.com/joomla/downloads.joomla.org/issues/new?title=[jdown]%20) | https://github.com/joomla/downloads.joomla.org
 events | [community.joomla.org/events.html](https://community.joomla.org/events.html) | [report jevnt](https://github.com/joomla/joomla-websites/issues/new?title=[jevnt]%20) | N/A
