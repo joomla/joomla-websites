@@ -455,6 +455,7 @@ RewriteRule .* - [F]
 # =============== Exceptions ===============
 RewriteRule ^administrator\/components\/com_akeeba\/restore\.php$ - [L]
 RewriteRule ^administrator\/components\/com_joomlaupdate\/restore\.php$ - [L]
+RewriteRule ^administrator\/components\/com_joomlaupdate\/extract\.php$ - [L]
 RewriteCond %{REQUEST_FILENAME} !(\.php)$
 RewriteCond %{REQUEST_FILENAME} -f
 RewriteRule ^\.well\-known/ - [L]
