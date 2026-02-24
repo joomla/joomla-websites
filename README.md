@@ -9,7 +9,7 @@ To help the webmasters, please:
 3. Give a description of the problem you encountered
 4. Provide a link if it is on a specific page, images also help explain issues for people to fix
 
-List on [Documentation website](https://docs.joomla.org/Joomla:The_Joomla_Websites) holds the teams as well.
+List on [Documentation website](https://guide.joomla.org/Joomla:The_Joomla_Websites) holds the teams as well.
 
 Uptime status on [UpTimeRobot Status page](https://status.joomla.org/)
 
@@ -25,7 +25,7 @@ certification | [certification.joomla.org](https://certification.joomla.org) | [
 coding-standards | [developer.joomla.org/coding-standards.html](https://developer.joomla.org/coding-standards.html) | [report jstand](https://github.com/joomla/joomla-websites/issues/new?title=[jstand]%20) | https://github.com/joomla/coding-standards
 community | [community.joomla.org](https://community.joomla.org) | [report jcomm](https://github.com/joomla/joomla-websites/issues/new?title=[jcomm]%20) | https://github.com/joomla/community.joomla.org
 developer | [developer.joomla.org](https://developer.joomla.org) | [report jdev](https://github.com/joomla/joomla-websites/issues/new?title=[jdev]%20) | https://github.com/joomla/developer.joomla.org
-docs | [docs.joomla.org](https://docs.joomla.org) | [report jdocs](https://github.com/joomla/joomla-websites/issues/new?title=[jdocs]%20) | https://github.com/joomla/docs.joomla.org
+docs (legacy)| [docs.joomla.org](https://docs.joomla.org) | [report jdocs](https://github.com/joomla/joomla-websites/issues/new?title=[jdocs]%20) | https://github.com/joomla/docs.joomla.org
 domains | [domains.joomla.org](https://domains.joomla.org) | [report jdomain](https://github.com/joomla/joomla-websites/issues/new?title=[jdomain]%20) | N/A
 downloads | [downloads.joomla.org](https://downloads.joomla.org) | [report jdown](https://github.com/joomla/downloads.joomla.org/issues/new?title=[jdown]%20) | https://github.com/joomla/downloads.joomla.org
 events | [community.joomla.org/events.html](https://community.joomla.org/events.html) | [report jevnt](https://github.com/joomla/joomla-websites/issues/new?title=[jevnt]%20) | N/A
@@ -34,11 +34,13 @@ extensions & vel | [extensions.joomla.org](https://extensions.joomla.org) | [rep
 forum | [forum.joomla.org](https://forum.joomla.org) | [report jforum](https://github.com/joomla/joomla-websites/issues/new?title=[jforum]%20) | https://github.com/joomla/forum.joomla.org
 foundation | [joomlafoundation.org](https://joomlafoundation.org) | [report jfoundation](https://github.com/joomla/joomla-websites/issues/new?title=[jfoundation]%20) | https://github.com/joomla/joomlafoundation.org
 framework | [framework.joomla.org](https://framework.joomla.org) | [report FW](https://github.com/joomla/framework.joomla.org/issues/new?title=[FW%20Site]&body=Please%20state%20the%20nature%20of%20your%20development%20emergency) | https://github.com/joomla/framework.joomla.org
+guide | [guide.joomla.org](https://guide.joomla.org) | [report jguide](https://github.com/joomla/joomla-websites/issues/new?title=[jguide]%20) | https://github.com/joomla/documentation.joomla.org
 help | [help.joomla.org](https://help.joomla.org) | [report jhelp](https://github.com/joomla/help.joomla.org/issues/new?title=[jhelp]%20) | https://github.com/joomla/help.joomla.org
 idp | [identity.joomla.org](https://identity.joomla.org) | [report idp](https://github.com/joomla/joomla-websites/issues/new?title=[idp]%20) | N/A
 issues | [issues.joomla.org](https://issues.joomla.org) | [report jissues](http://issues.joomla.org/tracker/jtracker) | https://github.com/joomla/jissues
 launch | [launch.joomla.org](https://launch.joomla.org) | [report jlaunch](https://github.com/joomla/joomla-websites/issues/new?title=[jlaunch]%20) | N/A
 magazine | [magazine.joomla.org](https://magazine.joomla.org) | [report jcm](https://github.com/joomla/joomla-websites/issues/new?title=[jcm]%20) | https://github.com/joomla/magazine.joomla.org
+manual | [manual.joomla.org](https://manual.joomla.org) | [report manual](https://github.com/joomla/joomla-websites/issues/new?title=[manual]%20) | https://github.com/joomla/manual.joomla.org
 osm | [opensourcematters.org](https://opensourcematters.org) | [report josm](https://github.com/joomla/joomla-websites/issues/new?title=[josm]%20) | https://github.com/joomla/opensourcematters.org
 showcase | [showcase.joomla.org](https://showcase.joomla.org) | [report jshow](https://github.com/joomla/joomla-websites/issues/new?title=[jshow]%20) | https://github.com/joomla/showcase.joomla.org
 sponsor | [joomla.org/sponsor.html](https://www.joomla.org/sponsor.html) | [report jspons](https://github.com/joomla/joomla-websites/issues/new?title=[jspons]%20) | N/A
